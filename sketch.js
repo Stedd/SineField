@@ -47,15 +47,3 @@ function setup() {
 	rect(posX, posY, rectWidth, rectHeight);
 
     }
-	
-	// function pointField(fieldX,fieldY,fieldWidth,fieldHeight,aliveTime){
-		
-		
-		
-		
-		// this.fieldX = random(this.fieldWidth/2, width-this.fieldWidth/2)
-		// this.fieldY	= random(this.fieldheight/2, width-this.fieldheight/2)
-		// fill(255);
-		// rect(this.fieldX, this.fieldY, this.fieldWidth, this.fieldHeight);
-	// }
-	
